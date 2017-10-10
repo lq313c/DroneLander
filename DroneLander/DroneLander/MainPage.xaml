@@ -31,3 +31,4 @@
         <Button Style="{DynamicResource ButtonLabelStyle}" Grid.Row="1" VerticalOptions="Fill" Text="{Binding ActionLabel}" Command="{Binding AttemptLandingCommand}" />
     </Grid>
 </ContentPage>
+    
